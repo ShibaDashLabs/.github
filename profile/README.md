@@ -6,6 +6,14 @@ Join a thriving community focused on **blockchain-based gaming**, **NFTs**, and 
 
 ---
 
+## 🎮 The Shiba Dash Racing Game
+
+Watch the **overview** of the **Shiba Dash Racing Game** to learn more about how it works:
+
+![Shiba Dash Overview](https://github.com/ShibaDashLabs/.github/blob/main/profile/overview.gif)
+
+---
+
 ## 🚀 What We Do
 
 At **ShibaDashLabs**, we are building the next-gen **Shiba Dash Racing Game**, where players can mint, race, and trade Shiba NFTs. Our ecosystem revolves around **Shiba Dash Tokens (SHIBADASH)** and **USDT/USDC** stablecoins, offering exciting racing competitions and NFT marketplace opportunities.
@@ -14,14 +22,6 @@ At **ShibaDashLabs**, we are building the next-gen **Shiba Dash Racing Game**, w
 - **For Developers:** Contribute to the game’s backend, smart contracts, and blockchain integration.
 - **For Creators:** Help design the game’s art, characters, and user experience.
 - **For Investors:** Explore and support the future of blockchain-based gaming, earning alongside the community.
-
----
-
-## 🎮 The Shiba Dash Racing Game
-
-Watch the **overview** of the **Shiba Dash Racing Game** to learn more about how it works:
-
-![Shiba Dash Overview](https://github.com/ShibaDashLabs/.github/blob/main/profile/overview.gif)
 
 ---
 
