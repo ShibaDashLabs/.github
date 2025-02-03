@@ -49,23 +49,4 @@ At **ShibaDashLabs**, we believe in **community-driven development**. Everyone c
 
 The **Shiba Dash Token (SHIBADASH)** is the utility token for the **Shiba Dash Racing Game** and ecosystem. Players use this token to mint Shibas, purchase race tickets, and participate in various activities within the game.
 
----
-
-## 🤝 Join Our Community
-
-By being part of **ShibaDashLabs**, you're not just a participant — you're a co-creator. Help us shape the future of blockchain gaming, and be part of a vibrant, growing community.
-
-Here’s how you can get started:
-1. **Join the Discord**: [Link to Discord Community](#)
-2. **Follow Us on Twitter**: [Link to Twitter](#)
-3. **Contribute to the Code**: Check out our repositories and start contributing!
-
----
-
-## 🔗 Useful Links
-
-- **Website**: [Link to the official game site](#)
-- **Token on Solana**: [Link to Solana explorer](#)
-- **Game Documentation**: [Link to game docs](#)
-- **Marketplace**: [Link to Shiba marketplace](#)
 
