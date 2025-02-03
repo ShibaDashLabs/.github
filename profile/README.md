@@ -1,70 +1,84 @@
-# PLYAZ – Democratizing Sports Investment Through Athlete Tokenization  
+# Welcome to ShibaDashLabs 🌟
 
-Welcome to **PLYAZ**, a pioneering platform that bridges the gap between athletes and investors through blockchain technology. By leveraging a **dual-token ecosystem**, we empower athletes with direct funding opportunities while providing investors with a **transparent, performance-based** investment model.
-
----
-
-## 🌟 Our Mission  
-We aim to **revolutionize sports investment** by creating an accessible, transparent, and rewarding system that allows athletes to secure funding while offering investors tangible returns based on athletic performance and career progression.
-
-## 🔥 Our Solution  
-PLYAZ introduces a **dual-token model**:  
-
-- **Athlete Security Tokens (AST)** – Represent direct athlete investment, allowing supporters to back athletes and share in their financial success.  
-- **PLYZ Utility Token (PLYZ)** – Powers the ecosystem, enabling governance, staking rewards, and platform-wide utility benefits.
-
-### Key Benefits:
-✅ **Direct athlete funding** through tokenization  
-✅ **Performance-based valuation** mechanisms  
-✅ **Community-driven governance** via PLYZ staking  
-✅ **Web3-powered incentives** and rewards  
-✅ **A transparent and sustainable sports investment ecosystem**  
+Welcome to **ShibaDashLabs**, the official community and development hub for **Shiba Dash Racing Game** and the **Shiba Dash Token** ecosystem. Our mission is to create a blockchain-based gaming experience that blends fun, strategy, and financial rewards, while empowering the community of players, developers, creators, and innovators.
 
 ---
 
-## 🚀 Platform Overview  
+## 🚀 **What is Shiba Dash?**
 
-### **1. Core Components**
-- **Athlete Profiles** – Tokenized representation of athletes for investment and engagement.  
-- **Investment Dashboard** – A marketplace for AST tokens, allowing investors to participate in athlete funding.  
-- **Governance & Staking** – Users can stake PLYZ tokens to influence platform decisions and unlock rewards.  
+**Shiba Dash** is a groundbreaking racing game where players race unique Shiba NFTs, participate in thrilling races, earn rewards, and engage in a dynamic ecosystem powered by blockchain technology. Players can mint Shibas, race them for prizes, and trade rare Shibas in the marketplace — all while using **Shiba Dash Tokens** (SHIBADASH) for in-game actions.
 
-### **2. Blockchain & Smart Contracts**
-- **Built on the Sui Network** – Ensuring high throughput, low fees, and security.  
-- **AST & PLYZ Contracts** – Smart contracts governing athlete tokenization, trading, and governance.  
-
-### **3. Token Economics**
-#### **PLYZ Utility Token (1B total supply)**
-- Used for **staking, governance, and platform utilities**  
-- Distributed across **community rewards, development, liquidity, and strategic sales**  
-
-#### **Athlete Security Tokens (AST)**
-- Each athlete has a fixed supply of **1,000,000 AST tokens**  
-- Generates **revenue shares** from earnings, sponsorships, and event winnings  
+Shiba Dash offers a comprehensive ecosystem combining gaming, NFTs, and blockchain — creating a lasting community-driven experience.
 
 ---
 
-## 📈 Roadmap  
-🚀 **Q1-Q2 2025** – Foundation: Smart contracts, security audits, and community building  
-🔥 **Q3 2025** – Launch: Token generation, initial AST offerings, and market making  
-🌍 **Q4 2025** – Growth: Mobile app, geographic expansion, and additional sports  
-🏆 **2026+** – Maturity: Full decentralization, cross-chain integration, and global adoption  
+## 🌐 **What is ShibaDashLabs?**
+
+At **ShibaDashLabs**, we are committed to the innovation and growth of the **Shiba Dash** game and ecosystem. This organization serves as the **development and community hub** for everyone involved in the project:
+
+- **Players**: Participate in exciting racing events, earn rewards, and interact with the Shiba Dash ecosystem.
+- **Developers**: Contribute to the codebase, build features, smart contracts, and make the game more immersive.
+- **Creators**: Help us build unique NFTs, design assets, or develop engaging content for the community.
+- **Investors**: Engage in the growth of the Shiba Dash ecosystem, monitor token growth, and see the project thrive.
+
+We aim to provide a platform where blockchain technology meets entertainment, offering value to **everyone** in the ecosystem.
 
 ---
 
-## 🔒 Security & Risk Management  
-- **Smart contract audits** and multi-sig wallets for security  
-- **Liquidity locks and vesting schedules** to prevent market manipulation  
-- **Performance-based safeguards**, including insurance pools and risk mitigation strategies  
+## 💡 **Key Features**
+
+1. **Shiba Minting**: Mint your own Shiba NFTs with unique stats and ranks. A fun, interactive way to participate in the game's economy.
+2. **Racing Tournaments**: Enter your Shibas in races to win rewards. Players can race based on Shiba ranks and betting tiers.
+3. **Marketplace**: Buy, sell, and trade Shibas on the Shiba Dash Marketplace. The marketplace allows players to make a profit by acquiring rare Shibas.
+4. **Leaderboard**: Track your progress and compete with other players for the top positions.
+5. **Shiba Dash Token (SHIBADASH)**: The official token for the game, used for minting, racing, and marketplace transactions.
 
 ---
 
-## 🤝 Join Us  
-We welcome **developers, athletes, investors, and sports enthusiasts** to collaborate and build the future of sports investment.  
+## 🔧 **Contribute to the Project**
 
-🔗 **Website:** [PLYAZ](https://plyaz.co.uk/)  
-📢 **Twitter:** [@PLYAZOfficial](https://www.linkedin.com/company/plyaz/)  
-💬 **Discord:** [Join the Community](#)  
-📄 **Whitepaper:** [Read Here](#)  
+We welcome contributions from **all developers, artists, creators**, and **blockchain enthusiasts** who share our vision for a decentralized, engaging, and fair gaming ecosystem.
 
-Let’s **democratize sports investment together!** ⚡  
+### **How to Contribute:**
+- **Fork the repository** and make your changes.
+- **Report issues** or submit bug reports.
+- **Submit pull requests** for features, fixes, or improvements.
+- **Join our discussions** on various platforms like Discord and GitHub issues.
+
+We are a **community-driven project** and encourage everyone to contribute in any way they can. Your input, ideas, and expertise are what will make **Shiba Dash** a long-term success.
+
+---
+
+## 💬 **Join the Community**
+
+Stay connected with the **Shiba Dash** community, discuss ideas, report issues, or get updates by joining our official platforms:
+
+- **Discord**: [Shiba Dash Community](#)
+- **Twitter**: [@ShibaDashGame](#)
+- **Telegram**: [Shiba Dash Updates](#)
+
+---
+
+## 🌱 **Supporters & Partners**
+
+We are constantly expanding our ecosystem and look forward to working with **partners, sponsors**, and **investors** who share our passion for innovation and entertainment. If you're interested in partnering with us or have an inquiry, feel free to reach out.
+
+---
+
+## 📢 **Stay Updated**
+
+For the latest announcements, updates, and game launches, follow our GitHub repository and keep an eye on the project’s progress.
+
+---
+
+## ⚡ **Let’s Make History!**
+
+At **ShibaDashLabs**, we believe in the power of community and technology to change the future of gaming and blockchain. Whether you're a player looking to have fun, a developer aiming to innovate, or an investor eager to support the next big thing, you're in the right place.
+
+---
+
+We can’t wait to see what you’ll build, play, and experience with **Shiba Dash**!
+
+---
+
+*Let’s race, mint, and grow the Shiba Dash ecosystem together!* 🚀
