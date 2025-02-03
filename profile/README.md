@@ -1,16 +1,10 @@
+![Shiba Dash Overview](https://github.com/ShibaDashLabs/.github/blob/main/profile/overview.gif)
+
 # Welcome to **ShibaDashLabs** 👾
 
 **ShibaDashLabs** is the heart of innovation for the **Shiba Dash Racing Game** and the **Shiba Dash Token** ecosystem. This organization is the hub for **developers, creators, players, investors**, and **contributors** who are building, playing, and supporting the future of **Shiba Dash**.
 
 Join a thriving community focused on **blockchain-based gaming**, **NFTs**, and **cryptocurrency innovation**. Whether you're a gamer looking to race your Shiba, a developer contributing to the project, or an investor exploring new opportunities, you're in the right place!
-
----
-
-## 🎮 The Shiba Dash Racing Game
-
-Watch the **overview** of the **Shiba Dash Racing Game** to learn more about how it works:
-
-![Shiba Dash Overview](https://github.com/ShibaDashLabs/.github/blob/main/profile/overview.gif)
 
 ---
 
