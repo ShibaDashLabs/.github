@@ -21,7 +21,7 @@ At **ShibaDashLabs**, we are building the next-gen **Shiba Dash Racing Game**, w
 
 Watch the **overview** of the **Shiba Dash Racing Game** to learn more about how it works:
 
-![Shiba Dash Overview](https://github.com/ShibaDashLabs/blob/main/assets/shiba_dash_overview.gif)
+![Shiba Dash Overview](https://github.com/ShibaDashLabs/.github/blob/main/profile/overview.gif)
 
 ---
 
